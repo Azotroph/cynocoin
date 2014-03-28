@@ -1,0 +1,9 @@
+Building Cynocoin
+
+See doc/readme-qt.rst for instructions on building Cynocoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Cynocoin.
+
+See doc/build-*.txt for instructions on building cynocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Cynocoin.
